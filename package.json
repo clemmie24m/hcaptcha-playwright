@@ -1,0 +1,27 @@
+{
+  "name": "hcaptcha-playwright",
+  "version": "1.0.0",
+  "description": "Solves hCaptcha using Playwright and 2captcha-ts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "clemmie24m",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.43.0",
+    "2captcha-ts": "^1.0.5"
+  },
+  "keywords": [
+    "hcaptcha",
+    "captcha",
+    "2captcha",
+    "captcha-solver",
+    "playwright",
+    "hcaptcha-solver",
+    "automation",
+    "web-automation",
+    "headless-browser",
+    "nodejs"
+  ]
+}
