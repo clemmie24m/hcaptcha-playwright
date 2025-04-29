@@ -27,6 +27,12 @@ This project is a simple example that demonstrates how to use [Playwright](https
    cd hcaptcha-playwright
 
 2. Install dependencies:
+
+    ```
+    npm install
+    ```
+
+    or manualy:
     ```
     npm install playwright 2captcha-ts
     ```
