@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/5838c294-a8f7-405b-b640-16c83b2abc25)
+![hcaptcha-solver-demo-gif-playwrite](https://github.com/user-attachments/assets/cad9f045-75dc-4fd6-8e87-15f4fd7f952d)
 
+<!-- ![image](https://github.com/user-attachments/assets/5838c294-a8f7-405b-b640-16c83b2abc25) -->
 
 # Playwright + HCaptcha Example
 
