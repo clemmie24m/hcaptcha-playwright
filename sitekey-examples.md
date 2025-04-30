@@ -43,6 +43,41 @@ These sitekeys and page URLs can be used for integration testing.
     "name":"sso.acesso.gov.br",
     "sitekey":"93b08d40-d46c-400a-ba07-6f91cda815b9",
     "pageurl":"https://sso.acesso.gov.br/login?client_id=portal-logado.estaleiro.serpro.gov.br"
+  },
+  {
+    "site": "Discord",
+    "sitekey": "4c672d35-0701-42b2-88c3-78380b0db560",
+    "pageurl": "https://discord.com/register"
+  },
+  {
+    "site": "Indeed",
+    "sitekey": "7734ec9b-f8cb-44b2-9fac-3a502cb4f1bf",
+    "pageurl": "https://secure.indeed.com/auth"
+  },
+  {
+    "site": "Stake (Online Gaming)",
+    "sitekey": "12c3f8c6-a15c-4b83-8767-8050ee30fb70",
+    "pageurl": "https://stake.games/settings/offers"
+  },
+  {
+    "site": "Bitwarden (Web Vault)",
+    "sitekey": "bc38c8a2-5311-4e8c-9dfc-49e99f6df417",
+    "pageurl": "https://vault.bitwarden.com/#/login"
+  },
+  {
+    "site": "Portal Único Siscomex (Brazil)",
+    "sitekey": "bf8ccfbf-6a05-45f6-982a-7a7964c2f50c",
+    "pageurl": "https://portalunico.siscomex.gov.br/"
+  },
+  {
+    "site": "Web3Forms (Free Plan default)",
+    "sitekey": "50b2fe65-b00b-4b9e-ad62-3ba471098be2",
+    "pageurl": "https://web3forms.com/#example-form"
+  },
+  {
+    "site": "Shopify (Storefront Contact Forms)",
+    "sitekey": "f06e6c50-85a8-45c8-87d0-21a2b65856fe",
+    "pageurl": "https://onthetablenj.com/pages/contact"
   }
 ]
 ```
