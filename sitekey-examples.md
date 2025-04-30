@@ -1,0 +1,48 @@
+# Examples of sitekeys you can try solving in a similar way
+These sitekeys and page URLs can be used for integration testing.
+⚠️ Important: Do not use these keys to generate excessive traffic to the websites — this may violate their terms of use. Use them strictly for testing or integrating your system.
+
+```json
+[
+  {
+    "name": "KuCoin",
+    "sitekey": "c1d5eb8f-f3c8-4f2e-a0e1-0c7a6d35f894",
+    "pageurl": "https://www.kucoin.com/login"
+  },
+  {
+    "name": "Gate.io",
+    "sitekey": "b89e6013-712b-46f6-9d46-15b6b07ba1f3",
+    "pageurl": "https://www.gate.io/signup"
+  },
+  {
+    "name": "ProtonMail",
+    "sitekey": "49f17598-d2aa-409b-b8c2-ea26152f6c04",
+    "pageurl": "https://account.proton.me/signup"
+  },
+  {
+    "name": "Bitfinex",
+    "sitekey": "ba3e70cf-4d8d-4a9c-9e3b-cde48e211b37",
+    "pageurl": "https://www.bitfinex.com/sign-up"
+  },
+  {
+    "name": "MEXC",
+    "sitekey": "9a6e455a-3e4a-4cc4-a999-3294a1f7a5be",
+    "pageurl": "https://www.mexc.com/login"
+  },
+  {
+    "name": "hCaptcha Demo",
+    "sitekey": "10000000-ffff-ffff-ffff-000000000001",
+    "pageurl": "https://accounts.hcaptcha.com/demo"
+  },
+  {
+    "name": "Democaptcha.com",
+    "sitekey": "338af34c-7bcb-4c7c-900b-acbec73d7d43",
+    "pageurl": "https://democaptcha.com/demo-form-eng/hcaptcha.html"
+  },
+  {
+    "name":"sso.acesso.gov.br",
+    "sitekey":"93b08d40-d46c-400a-ba07-6f91cda815b9",
+    "pageurl":"https://sso.acesso.gov.br/login?client_id=portal-logado.estaleiro.serpro.gov.br"
+  }
+]
+```
