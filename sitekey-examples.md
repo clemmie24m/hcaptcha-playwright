@@ -25,6 +25,7 @@ Sitekey examples:
 | Sophos Intelix         | f1e2d3c4-b5a6-7980-9a0b-c1d2e3f4a5b6 | https://intelix.sophos.com/                                                     | nan                                |
 | Skyscanner Preferences | d4c3b2a1-6f5e-4d3c-2b1a-0f9e8d7c6b5a | https://preferences.skyscanner.net/                                             | nan                                |
 
+Sitekey examples `JSON`:
 ```json
 [
   {
